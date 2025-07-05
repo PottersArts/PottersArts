@@ -90,6 +90,11 @@ nav ul li a {
   max-width: 300px;
 
   }
+  .card1:hover{
+    box-shadow: 5px 5px 5px #000000;
+
+  }
+
   
 
 .card i {
@@ -98,6 +103,11 @@ nav ul li a {
   color: #ff3c38;
  
 }
+.card i:hover{
+    box-shadow: 5px 5px 5px #000000;
+
+  }
+
 form {
   display: flex;
   flex-direction: column;
